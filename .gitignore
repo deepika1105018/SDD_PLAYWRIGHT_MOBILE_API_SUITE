@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Allure generated files
+allure-results/
+allure-report/
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
